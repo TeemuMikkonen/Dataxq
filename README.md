@@ -1,4 +1,4 @@
-#Solita X Man@ger DataXQ
+# Solita X Man@ger DataXQ
 
 Notebookiin tästä linkistä
 
